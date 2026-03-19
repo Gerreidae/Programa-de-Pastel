@@ -7,7 +7,14 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Pastel.Icon.ico</ApplicationIcon>
+    <AssemblyName>Programa de Pastel</AssemblyName>
+    <AssemblyTitle></AssemblyTitle>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Pastel.Icon.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <Compile Update="Properties\Resources.Designer.cs">
