@@ -8,7 +8,7 @@ Acepta el regalo. Siente la música. No hay escapatoria.
 
 ## 🎥 Gameplay y Funcionamiento
 
-*[Nota para ti: Aquí puedes pegar directamente el enlace de un video de YouTube o arrastrar un archivo .gif mostrando cómo funciona la ventana]*
+*https://youtu.be/hglypcE6TjQ?si=YaBHE3e_hYAnIT2d*
 
 > *"Una obra maestra de la manipulación digital y la pastelería virtual."* ---
 
