@@ -6,11 +6,11 @@ Acepta el regalo. Siente la música. No hay escapatoria.
 
 ---
 
-## 🎥 Gameplay y Funcionamiento
+## 🎥 Funcionamiento
 
-*https://youtu.be/hglypcE6TjQ?si=YaBHE3e_hYAnIT2d*
+[![](https://markdown-videos.deta.dev/youtu.be/hglypcE6TjQ?si=lEYMNzklaW6JbrdY)](https://youtu.be/hglypcE6TjQ?si=lEYMNzklaW6JbrdY)
 
-> *"Una obra maestra de la manipulación digital y la pastelería virtual."* ---
+> *"Una obra maestra de la manipulación digital y la pastelería virtual."* --- 
 
 ## ⚙️ Requisitos del Sistema
 
