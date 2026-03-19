@@ -30,3 +30,6 @@ Para garantizar que el audio de cumpleaños se reproduzca sin cuellos de botella
 2. Extrae todos los archivos en una misma carpeta.
 3. Ejecuta `Programa de Pastel.exe`.
 4. Acepta el pastel.
+
+---
+© 2025 Gerreidae
